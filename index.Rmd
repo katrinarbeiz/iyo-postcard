@@ -14,4 +14,5 @@ output:
   postcards::jolla_blue
 ---
  
-As a proud third culture kid who has lived in seven countries throughout my life, I am an aspriing clinical psychologist and researcher who is interested in the intersections of culture and serious mental health disorders
+As a proud third culture kid who has lived in seven countries throughout my life, I am an aspriing clinical psychologist and researcher who is interested in the intersections of culture and serious mental health disorders.
+
