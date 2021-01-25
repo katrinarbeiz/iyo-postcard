@@ -3,7 +3,7 @@ title: "Katrina Rbeiz"
 image: "kat.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://linkedin.com/katrinarbeiz"
   - label: Twitter
     url: "https://twitter.com/thirdculturekat"
   - label: GitHub
